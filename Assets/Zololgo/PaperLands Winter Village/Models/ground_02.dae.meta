@@ -29,7 +29,7 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: ground-snow
-    second: {fileID: 2100000, guid: f953882c3b6a230479d997236b4ab2bb, type: 2}
+    second: {fileID: 2100000, guid: 10602d70d8a77814c800fa78346794cd, type: 2}
   materials:
     materialImportMode: 1
     materialName: 0

@@ -26,27 +26,27 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: black
-    second: {fileID: 2100000, guid: 365583524e2d0974e9a1d8f31dbf3b36, type: 2}
+    second: {fileID: 2100000, guid: c87f949135e802a4f87102da2fcdfaa8, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: house_roofing_01
-    second: {fileID: 2100000, guid: cd417d2eabbc8814cac89f3c3a5baa15, type: 2}
+    second: {fileID: 2100000, guid: 199db2f77f9418d49b9bccd374bf936f, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: pine-snow
-    second: {fileID: 2100000, guid: a4e396887543f534abc331caada2d043, type: 2}
+    second: {fileID: 2100000, guid: 19fe893579f53c04ba0e42373fabe65c, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: pine-trunk
-    second: {fileID: 2100000, guid: 3bf817e4a48e2ce41820c64c21fe7a1d, type: 2}
+    second: {fileID: 2100000, guid: 9b76a5812b466774e87b71471ab6228e, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: rock_dark
-    second: {fileID: 2100000, guid: 574426fd633d7cf4484acd99ad96a065, type: 2}
+    second: {fileID: 2100000, guid: 53c1a7aa10a255a4a94b1d943e9efa59, type: 2}
   materials:
     materialImportMode: 1
     materialName: 0

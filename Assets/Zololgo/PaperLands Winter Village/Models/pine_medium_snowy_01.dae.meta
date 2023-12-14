@@ -26,17 +26,17 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: pine-green
-    second: {fileID: 2100000, guid: 47eafe40189209a47aa9f87dab2f364a, type: 2}
+    second: {fileID: 2100000, guid: 9b318006455b7484bb551fcc2e320bc9, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: pine-snow
-    second: {fileID: 2100000, guid: 6f8b87d169a30824fbecfa2d22f106af, type: 2}
+    second: {fileID: 2100000, guid: 3e87e511df48cf244a0360bc2a6ec22d, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: pine-trunk
-    second: {fileID: 2100000, guid: ca3d14906c0166c4c8d3bd264dfd40b6, type: 2}
+    second: {fileID: 2100000, guid: 91f07637a585b6145bea0ed8c88e25f3, type: 2}
   materials:
     materialImportMode: 1
     materialName: 0

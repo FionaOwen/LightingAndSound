@@ -26,47 +26,47 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: black
-    second: {fileID: 2100000, guid: ebaea7451a29d904b919de34b234e4a0, type: 2}
+    second: {fileID: 2100000, guid: 81fb078e6f6ec114ca1d1115cfedcf3a, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: dark_wood_01
-    second: {fileID: 2100000, guid: bb231ce1ea861b54a8b4fb2de4486673, type: 2}
+    second: {fileID: 2100000, guid: 9f3ea65beb50275479cfa74aca5e3614, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: ground-snow
-    second: {fileID: 2100000, guid: 57596d2e15c497741ada51fcac95cb4d, type: 2}
+    second: {fileID: 2100000, guid: be791daa70ed8c349a93e84032e1de25, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: house_roofing_01
-    second: {fileID: 2100000, guid: fb7e14edf5470e340a812bd1435f2858, type: 2}
+    second: {fileID: 2100000, guid: 9171a1a2a44e98f49ae6724e877a902a, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: house_walls_01
-    second: {fileID: 2100000, guid: 33ff7cca36c17a343a2a8509d7adb083, type: 2}
+    second: {fileID: 2100000, guid: f55e8c66cb7a2fd4583626763847f9e6, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: light_wood_01
-    second: {fileID: 2100000, guid: b8ff0602d46e8b14682e86066d16cada, type: 2}
+    second: {fileID: 2100000, guid: a0d72578be8cfa74aa95649afe639a70, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: pine-trunk
-    second: {fileID: 2100000, guid: 502f20bbc8c925a4ebca16863de0520b, type: 2}
+    second: {fileID: 2100000, guid: ba5b2fc869c7a5649acfcf3f9a325137, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: rock_dark
-    second: {fileID: 2100000, guid: 1ae41de555d4e6f4f87ed68bb8d87e14, type: 2}
+    second: {fileID: 2100000, guid: 3110a75d1978e8442961a53d6c44eb89, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: window_01
-    second: {fileID: 2100000, guid: a49829e5317893646adcbea2c5df9812, type: 2}
+    second: {fileID: 2100000, guid: a571040b41066aa49a11369c24ed08e4, type: 2}
   materials:
     materialImportMode: 1
     materialName: 0
