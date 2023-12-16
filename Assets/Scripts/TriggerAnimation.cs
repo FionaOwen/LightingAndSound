@@ -4,14 +4,18 @@ using UnityEngine;
 
 public class TriggerAnimation : MonoBehaviour
 {
-    public Animator npcAnimation;
+    public Animator npcAnimator;
     public string[] animationName;
 
+    private void Start()
+    {
+        npcAnimator = GetComponent<Animator>();
+    }
     public void OnTriggerEnter(Collider other)
     {
         if(other.tag == "Player")
         {
-            npcAnimation.Play(animationName[0]);
+            npcAnimator.Play(animationName[0]);
         }
     }
 }
