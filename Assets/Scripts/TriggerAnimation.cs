@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class TriggerAnimation : MonoBehaviour
 {
-    public Animation npcAnimation;
+    public Animator npcAnimation;
     public string[] animationName;
 
     public void OnTriggerEnter(Collider other)
