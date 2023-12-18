@@ -11,11 +11,12 @@ public class MaterialChanger : MonoBehaviour
     private Material[] originalMaterials;
     public Material newMaterial;
     public int materialArrayNumberChange;
-
+    public Light streetLampSpotlight;
     void Start()
     {
         meshRenderer = GetComponent<MeshRenderer>();
         originalMaterials = meshRenderer.materials;
+       
     }
 
     private void OnTriggerEnter(Collider other)
@@ -23,6 +24,10 @@ public class MaterialChanger : MonoBehaviour
         if(other.tag == "Player")
         {
             ChangeMaterial();
+            if(streetLampSpotlight != null)
+            {
+                streetLampSpotlight.enabled = true;
+            }
         }
     }
 
