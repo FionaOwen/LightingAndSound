@@ -8,6 +8,7 @@ public class TriggerAudio : MonoBehaviour
     public AudioSource playerAudioSource;
     public int waitingTime;
     public string otherObjectTag;
+    public bool stopAudioOnExit;
 
     public void OnTriggerEnter(Collider other)
     {
@@ -16,7 +17,16 @@ public class TriggerAudio : MonoBehaviour
             StartCoroutine(PlayAudios());
         }
     }
-
+    public void OnTriggerExit(Collider other)
+    {
+        if (stopAudioOnExit)
+        {
+            if (other.tag == otherObjectTag)
+            {
+                playerAudioSource.Stop();
+            }
+        }
+    }
     IEnumerator PlayAudios()
     {
         playerAudioSource.PlayOneShot(audioClips[0]);
