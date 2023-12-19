@@ -18,4 +18,11 @@ public class TriggerAnimation : MonoBehaviour
             npcAnimator.Play(animationName[0]);
         }
     }
+    public void OnTriggerExit(Collider other)
+    {
+        if(other.tag == "Player")
+        {
+            npcAnimator.Play(animationName[1]);
+        }
+    }
 }
