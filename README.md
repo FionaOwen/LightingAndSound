@@ -2,6 +2,9 @@
 
 Welcome to the Lighting amd Sound Demo project! This Unity project serves as a demonstration of various lighting techniques, designed specifically for educational purposes. It's intended to help students understand different lighting scenarios and effects within the Unity game engine.
 
+# Feature
+![alt text](https://github.com/FionaOwen/Pictures/blob/main/Final.png)
+
 ## Project Details
 
 - **Unity Version:** 2022.3.10f1
